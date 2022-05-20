@@ -1,2 +1,3 @@
-# info_upi
-Untuk quiz 2 Flutter
+PromvisQuiz2
+Mochamad Ardiansyah Ramadhani
+1804172
